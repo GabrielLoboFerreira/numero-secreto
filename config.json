@@ -1,0 +1,26 @@
+{
+ "development": {
+    "username": "gabriel",
+    "password": "Asdtqh06",
+    "database": "alura_cursos",
+    "host": "curso-alura-database.mysql.database.azure.com",
+    "dialect": "mysql",
+    "operatorAliases": false
+ },
+ "test": {
+    "username": "gabriel",
+    "password": "Asdtqh06",
+    "database": "alura_cursos",
+    "host": "curso-alura-database.mysql.database.azure.com",
+    "dialect": "mysql",
+    "operatorAliases": false
+ },
+ "production": {
+    "username": "gabriel",
+    "password": "Asdtqh06",
+    "database": "alura_cursos",
+    "host": "curso-alura-database.mysql.database.azure.com",
+    "dialect": "mysql",
+    "operatorAliases": false
+ }
+}
